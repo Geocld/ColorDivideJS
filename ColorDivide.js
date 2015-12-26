@@ -29,6 +29,7 @@
 			text = e.textContent;
 			a = text.split('eefec303079ad17405c889e092e105b0');
 			after = '';
+			e = null;//free storge
 		}
 
 
